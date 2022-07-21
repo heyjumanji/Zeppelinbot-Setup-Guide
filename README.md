@@ -429,14 +429,11 @@ For now this guide is up-to-date and works perfectly.
 • **Last updated:** `21/07/2022 - 10:13 PM`
 
 # Thank you!!
-Thanks for reading and i hope this guide helps you abit if it does make sure star this repository. <3 Also make sure to follow me on GitHub!
-## Star To Support <3
-> You can also give this repository a star to show more people and they can use this repository and get some help!
+Thanks for reading and i hope this guide helps you abit if it does, you can also give this repository a star to show more people and they can use this repository and get some help! Also you can follow me on GitHub.<33
 
 ![startbanner](Assets/IMG_20220721_202937_054.jpg)
 
-## Contact
-> Make sure join JumanJi's Hub:
+> Also make sure join JumanJi's Hub:
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](https://discord.gg/fjAhHH6CFh)
 
