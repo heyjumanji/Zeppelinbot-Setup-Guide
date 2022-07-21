@@ -5,11 +5,11 @@ This guide is made by keeping in mind to help all the new user who want to setup
 > Zeppelin is a private moderation bot for Discord, designed with large servers and reliability in mind. This bot as said it is a private bot so it can be only invite by request.
 
 ## Resources:
-• offical website: https://zeppelin.gg/
+• [offical website](https://zeppelin.gg/)
 
-• Official Documentation: https://zeppelin.gg/doc
+• [Official Documentation](https://zeppelin.gg/doc)
 
-• Offical Discord Server: https://discord.gg/zeppelin
+• [Offical Discord Server](https://discord.gg/zeppelin)
 # How to setup ?
 Well no worries just copy and paste this config code below to start with the bot 
 ```
