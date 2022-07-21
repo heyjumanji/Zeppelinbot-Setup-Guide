@@ -22,3 +22,8 @@ For now this guide is up-to-date and works perfectly.
 
 # Thank you!!
 Thanks for reading and i hope this guide helps you abit if it does make sure star this repository. <3
+
+> Make sure join JumanJi's Hub:
+
+[![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](https://discord.gg/fjAhHH6CFh)
+
