@@ -425,7 +425,8 @@ plugins:
 # Note:
 I will update this guide as soon as posible if the bot gets any updates!!
 For now this guide is up-to-date and works perfectly.
-• Last updated: <t:1658422220:R>
+
+• **Last updated:** `21/07/2022 - 10:13 PM`
 
 # Thank you!!
 Thanks for reading and i hope this guide helps you abit if it does make sure star this repository. <3 Also make sure to follow me on GitHub!
