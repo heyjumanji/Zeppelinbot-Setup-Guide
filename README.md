@@ -430,12 +430,12 @@ For now this guide is up-to-date and works perfectly.
 
 # Thank you!!
 Thanks for reading and i hope this guide helps you abit if it does make sure star this repository. <3 Also make sure to follow me on GitHub!
-## Star ⭐
-
-> You can also give this repository a star to show more people and they can use this repository and get some help!
+## Star to love<3
+You can also give this repository a star to show more people and they can use this repository and get some help!
 
 ![startbanner](Assets/IMG_20220721_202937_054.jpg)
 
+## Contact
 > Also Make sure join JumanJi's Hub:
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](https://discord.gg/fjAhHH6CFh)
