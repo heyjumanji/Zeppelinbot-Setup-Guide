@@ -427,8 +427,8 @@ I will update this guide as soon as posible if the bot gets any updates!!
 For now this guide is up-to-date and works perfectly.
 
 # Thank you!!
-Thanks for reading and i hope this guide helps you abit if it does make sure star this repository. <3
-
+Thanks for reading and i hope this guide helps you abit if it does make sure star this repository. <3 Also make sure to follow me on GitHub!
+![startbanner](Assets/IMG_20220721_202937_054.jpg)
 > Make sure join JumanJi's Hub:
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](https://discord.gg/fjAhHH6CFh)
