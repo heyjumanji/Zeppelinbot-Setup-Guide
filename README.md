@@ -434,7 +434,7 @@ Thanks for reading and i hope this guide helps you abit if it does, you can also
 ![startbanner](Assets/IMG_20220721_202937_054.jpg)
 
 ## Contact Me! :D
-> Also make sure join JumanJi's Hub:
+> Make sure join JumanJi's Hub:
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](https://discord.gg/fjAhHH6CFh)
 
