@@ -15,20 +15,20 @@ This guide is made by keeping in mind to help all the new user who want to setup
 [![Join our Discord server!](https://invidget.switchblade.xyz/9bCGvGw5rT)](http://discord.gg/9bCGvGw5rT)
 
 # How to setup ?
-Well no worries just copy and paste this config code below to start with the bot 
+Well no worries just copy and paste this config code below to start with the bot. Just you need to replace the mod, admin and other logs channels id and your good to goo! Just once check the confirmation and you will see where you need to be replaced theod, admin and channel ids.
 ```
-prefix: '!'
+prefix: '!' 
 
 levels:
-  "881494287974555649": 100 #admin role
-  "881488471015968818": 50  #Mod role
+  "Admin role id": 100 #admin role
+  "Mod role id": 50  #Mod role
 
 plugins:
 
   #Phisherman
   phisherman:
     config:
-      api_key: "7881760a-bf49-4284-a4d2-8889298cd8a0"
+      api_key: "your key"
 
   #Reminders
   reminders:
@@ -48,7 +48,7 @@ plugins:
       message_on_kick: true
       message_on_ban: true
       message_channel: null
-      warn_message: '<:cattopolice:885944326679584908> You have been warned in {guildName} for: {reason}!!'
+      warn_message: '**You have been warned in {guildName} for:** {reason}!!'
       kick_message: '**You have been kicked from {guildName}.** **Reason given:** {reason}'
       ban_message: '**You have been banned from {guildName}.** **Reason given:** {reason}'
       tempban_message: >-
@@ -175,7 +175,7 @@ plugins:
     config:
     
       #channels:
-        #'761972021612904519': #log channel id here 
+        #'log channel id here': #log channel id here 
           #exclude: [] #exclude nothing, include everythinh
 
       format:
@@ -297,7 +297,7 @@ plugins:
   #Mutes
   mutes:
     config:
-      mute_role: '885893776927756358'
+      mute_role: 'mute role id here'
       move_to_voice_channel: null
       kick_from_voice_channel: false
       dm_on_mute: true
