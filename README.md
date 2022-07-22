@@ -429,7 +429,7 @@ For now this guide is up-to-date and works perfectly.
 • **Last updated:** `21/07/2022 - 10:13 PM`
 
 # Thank you!!
-Thanks for reading and i hope this guide helps you abit if it does, you can also give this repository a star to show more people and they can use this repository and get some help! Also you can follow me on GitHub.<33
+Thanks for reading and i hope this guide helps you abit if it does, you can also give this repository a **star** ⭐ to show more people and they can use this repository and get some help! Also you can follow me on GitHub.<33
 
 ![startbanner](Assets/IMG_20220721_202937_054.jpg)
 
