@@ -440,7 +440,9 @@ Thanks for reading and i hope this guide helps you abit if it does, you can also
 
 ---
 
-Contributions are always welcomed :D Make sure to follow [Contributing.md](/contributor.md)
+# Contribution
+
+Contributions are always welcomed :D Make sure to follow [Contributor rules](contributor.md)
 
 <a href="https://github.com/JumanJionGitHub/Zeppelinbot-Setup-Guide/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=JumanJionGitHub/Zeppelinbot-Setup-Guide" />
