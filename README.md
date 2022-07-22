@@ -440,12 +440,15 @@ Thanks for reading and i hope this guide helps you abit if it does, you can also
 
 ---
 
+
 # Contribution
 
-Contributions are always welcomed :D Make sure to follow [Contributor rules](contributor.md)
+Contributions are always welcomed :D Make sure to follow [Contributor rules](Contributor.md)
 
 <a href="https://github.com/JumanJionGitHub/Zeppelinbot-Setup-Guide/graphs/contributors">
   <img src="https://contributors-img.web.app/image?repo=JumanJionGitHub/Zeppelinbot-Setup-Guide" />
 </a>
 
 Made with :heart: By JumanJi
+
+---
