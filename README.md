@@ -439,3 +439,11 @@ Thanks for reading and i hope this guide helps you abit if it does, you can also
 [![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](https://discord.gg/fjAhHH6CFh)
 
 ---
+
+Contributions are always welcomed :D Make sure to follow [Contributing.md](/contributor.md)
+
+<a href="https://github.com/JumanJionGitHub/Zeppelinbot-Setup-Guide/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=JumanJionGitHub/Zeppelinbot-Setup-Guide" />
+</a>
+
+Made with :heart: By JumanJi
