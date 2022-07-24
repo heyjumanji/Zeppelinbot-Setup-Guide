@@ -18,7 +18,7 @@ This guide is made by keeping in mind to help all the new user who want to setup
 Well no worries just copy and paste this config code below to start with the bot. Just you need to replace the mod, admin and other logs channels id and your good to goo! Just once check the confirmation and you will see where you need to be replaced theod, admin and channel ids.
 
 <details>
-  <summary>Click to view beginners config!</summary>
+  <summary>Click to view ready made config!</summary>
 
 ```yaml
 prefix: '!' 
@@ -432,7 +432,7 @@ plugins:
 I will update this guide as soon as posible if the bot gets any updates!!
 For now this guide is up-to-date and works perfectly.
 
-• **Last updated:** `24/07/2022 - 10:13 PM`
+• **Last updated:** `24/07/2022 - 11:08 PM`
 
 # Thank you!!
 Thanks for reading and i hope this guide helps you abit if it does, you can also give this repository a **star** ⭐ to show more people and they can use this repository and get some help! Also you can follow me on GitHub.<33
