@@ -444,7 +444,7 @@ Thanks for reading and i hope this guide helps you abit if it does, you can also
 ![startbanner](Assets/IMG_20220721_202937_054.jpg)
 
 ## Contact Me! :D
-> Make sure join JumanJi's Hub:
+> If you got any issues or questions related to the bot configuration make sure join JumanJi's Hub:
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](https://discord.gg/fjAhHH6CFh)
 
