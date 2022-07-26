@@ -15,7 +15,11 @@ This guide is made by keeping in mind to help all the new user who want to setup
 [![Join our Discord server!](https://invidget.switchblade.xyz/9bCGvGw5rT)](http://discord.gg/9bCGvGw5rT)
 
 # How to setup ?
-Well no worries just copy and paste this config code below to start with the bot. Just you need to replace the mod, admin and other logs channels id and your good to goo! Just once check the confirmation and you will see where you need to be replaced theod, admin and channel ids.
+Well no worries just copy and paste this config code below to start with the bot. Just you need to replace the mod, admin and other logs channels id and your good to goo! Just once check the confirmation and you will understand where you need to be replaced the roles, channel and other api ids.
+
+As you known its just a thing to copy and past, click on the text below 👇 to get the full **configuration** and just copy and paste in your zeppelin deshboad configuration of your server as shown in the example imgae below where to paste the configuration of the bot!
+
+![example-config](Assets/IMG_20220727_002643_731.jpg)
 
 <details>
   <summary>Click to view ready made config!</summary>
@@ -432,7 +436,7 @@ plugins:
 I will update this guide as soon as posible if the bot gets any updates!!
 For now this guide is up-to-date and works perfectly.
 
-• **Last updated:** `24/07/2022 - 11:08 PM`
+• **Last updated:** `27/07/2022 - 12:38 AM`
 
 # Thank you!!
 Thanks for reading and i hope this guide helps you abit if it does, you can also give this repository a **star** ⭐ to show more people and they can use this repository and get some help! Also you can follow me on GitHub.<33
