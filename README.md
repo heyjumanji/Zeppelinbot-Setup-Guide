@@ -422,6 +422,24 @@ plugins:
             #enabled: false
           #filter_scam_links:
             #enabled: false
+         
+    #Auto Reaction
+  auto_reactions:
+   config:
+    can_manage: false
+   overrides:
+    - level: '>=100'
+      config:
+        can_manage: true
+      
+   #post
+  post:
+    config:
+      can_post: false
+    overrides:
+      - level: '>=100'
+        config:
+          can_post: true
 
 ```
 </details>
