@@ -445,12 +445,24 @@ plugins:
 </details>
 
 ---
+# Advance Setup!
+> Incase if you know now, how the bot work and how it can be setup! Well then no worries i have a advance config file also which will make your zeppelin work flow more better and powerful, make your server secure from raids, spam, and more.
 
+<details>
+  <summary>Click to view ready made config!</summary>
+
+```yaml
+Coming soon..
+
+```
+</details>
+
+---
 # Note:
 I will update this guide as soon as posible if the bot gets any updates!!
 For now this guide is up-to-date and works perfectly.
 
-* **Last updated:** `15/08/2022 - 04:56 PM`
+* **Last updated:** `10/10/2022 - 11:53 AM`
 
 # Thank you!!
 Thanks for reading and i hope this guide helps you abit if it does, you can also give this repository a **star** ⭐ to show more people and they can use this repository and get some help! Also you can follow me on GitHub.<33
