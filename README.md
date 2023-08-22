@@ -1,5 +1,5 @@
 > [!NOTE]  
-> We are on development of new website & we will transfer the Zeppelin to the new website with more information and better resources. thank you so much for supporting and giving it 10 stars! <3
+> We are on development of new website & we will transfer the Zeppelin to the new website with more information and better resources of the guide. thank you so much for supporting and giving it 10 stars! <3
 
 ![Banner](Assets/ZeppelinBot.png)
 # Introduction
