@@ -1,5 +1,5 @@
 > [!NOTE]  
-> We are on development of new website & we will transfer the Zeppelin to the new website with more information and better resources of the guide. thank you so much for supporting and giving it 10 stars! <3
+> We are currently in the process of developing a new website, and as part of this endeavor, we intend to migrate the Zeppelin GitHub guide repository. The new website will offer enhanced information and improved resources in relation to the guide. We sincerely appreciate your support and the generous rating of 10 stars. Thank you for your encouragement!
 
 ![Banner](Assets/ZeppelinBot.png)
 # Introduction
