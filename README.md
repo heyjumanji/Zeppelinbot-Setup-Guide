@@ -475,7 +475,7 @@ Thanks for reading and i hope this guide helps you abit if it does, you can also
 ## Contact Me! :D
 > Make sure join JumanJi's Hub:
 
-[![Join our Discord server!](https://invidget.switchblade.xyz/fjAhHH6CFh)](https://discord.gg/mGuSkWHb2f)
+[![Join our Discord server!](https://invidget.switchblade.xyz/mGuSkWHb2f)](https://discord.gg/mGuSkWHb2f)
 
 ---
 
