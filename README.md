@@ -1,6 +1,3 @@
-> [!NOTE]  
-> We are currently in the process of developing a new website, and as part of this endeavor, we intend to migrate the Zeppelin GitHub guide repository. The new website will offer enhanced information and improved resources in relation to the guide. We sincerely appreciate your support and the generous rating of 10 stars. Thank you for your encouragement!
-
 ![Banner](Assets/ZeppelinBot.png)
 # Introduction
 This guide is made by keeping in mind to help all the new user who want to setup the bot and facing some problem with setup their config commands and files. Well no worries this will help you out everything, as im making this guide because one day im facing alot of problems and it took me alot of time to understand and set-up the bot. This guide is only for beginners who have never setup this bot before and not used the bot as i said i have got alot of problems to setup the bot and also somehow the community of the bot is rude to me and quite not kind to me to help and dont gives answer to my questions of my problems which im facing with the bot to setup, so here we comes just read and follow the guide you will understand everything :3
