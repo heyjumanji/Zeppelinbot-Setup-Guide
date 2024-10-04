@@ -470,7 +470,7 @@ Thanks for reading and i hope this guide helps you abit if it does, you can also
 ![startbanner](Assets/IMG_20220721_202937_054.jpg)
 
 ## Contact Me! :D
-> Make sure join JumanJi's Hub:
+If you have any questions or inquiry please, make sure join JumanJi's Hub or you can send me a mail at: [contact@jumanji.is-a.dev](https://mailto:contact@jumanji.is-a.dev)
 
 [![Join our Discord server!](https://invidget.switchblade.xyz/mGuSkWHb2f)](https://discord.gg/mGuSkWHb2f)
 
