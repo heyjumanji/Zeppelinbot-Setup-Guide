@@ -1,6 +1,6 @@
 # Contributor Guide for Zeppelinbot-Setup-Guide
 
-Welcome to the [Repository Name] repository! We appreciate your interest in contributing. This guide outlines how to contribute effectively to this project.
+Welcome to the [heyjumanji/Zeppelinbot-Setup-Guide](https://github.com/heyjumanji/Zeppelinbot-Setup-Guide) repository! We appreciate your interest in contributing. This guide outlines how to contribute effectively to this project.
 
 ## Table of Contents
 
