@@ -1,4 +1,4 @@
-# Contributor Guide for [Repository Name]
+# Contributor Guide for heyjumanji/Zeppelinbot-Setup-Guide
 
 Welcome to the [Repository Name] repository! We appreciate your interest in contributing. This guide outlines how to contribute effectively to this project.
 
