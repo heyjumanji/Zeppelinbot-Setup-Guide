@@ -469,6 +469,8 @@ Thanks for reading and i hope this guide helps you abit if it does, you can also
 
 ![startbanner](Assets/IMG_20220721_202937_054.jpg)
 
+![starhistory](https://github.com/heyjumanji/Zeppelinbot-Setup-Guide/blob/2e2ae506737499129f3fefc06182ecc021a3181e/Assets/star-history-202513.png)
+
 ## Contact Me! :D
 If you have any questions or inquiries, feel free to join JumanJi's Hub or email me at: [contact@jumanji.is-a.dev](mailto:contact@jumanji.is-a.dev).
 
